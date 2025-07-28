@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.29 29.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="computer_tab" data-name="computer tab">
+    <g>
+      <rect class="cls-1" x="76.56" y="1.5" width="7.89" height="26.31"/>
+      <rect class="cls-1" x="88.4" y="1.5" width="7.89" height="26.31"/>
+      <polygon class="cls-1" points="171.29 15.16 154.65 5.55 154.66 12.35 142.56 5.37 142.56 24.58 154.66 17.59 154.66 24.76 171.29 15.16"/>
+      <polygon class="cls-1" points="3 14.98 19.63 5.37 19.64 12.16 31.73 5.18 31.74 24.39 19.64 17.41 19.64 24.58 3 14.98"/>
+    </g>
+  </g>
+</svg>

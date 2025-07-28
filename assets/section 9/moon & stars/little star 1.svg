@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202.16 202.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="moon_stars" data-name="moon/stars">
+    <path class="cls-1" d="M101.08,202.08c-1.25-31.38-2.49-62.76-3.74-94.14-32.42-2.29-64.85-4.58-97.27-6.87,32.42-1.71,64.85-3.42,97.27-5.13,1.25-31.96,2.49-63.92,3.74-95.88,2.09,31.96,4.17,63.92,6.26,95.88,31.58,1.71,63.16,3.42,94.75,5.13-31.58,2.29-63.16,4.58-94.75,6.87l-6.26,94.14Z"/>
+  </g>
+</svg>

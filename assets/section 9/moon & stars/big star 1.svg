@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 225.7 401.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="-419.82" cy="-4015.02" fx="-419.82" fy="-4015.02" r="162.31" gradientTransform="translate(-306.97 -3814.11) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".27" stop-color="#71d9ff"/>
+      <stop offset=".57" stop-color="#f867b2"/>
+    </radialGradient>
+  </defs>
+  <g id="moon_stars" data-name="moon/stars">
+    <path class="cls-1" d="M120.03,400.81c.47-.01.52-18.23-1-91-1.78-24.01-1.59-43.8-1-58,.82-19.94,2.31-26.13,7-31,5.09-5.28,8.32-3.18,44-7,0,0,41.51-4.45,56.62-4.18h0s-32.33,1.18-73.01-2.6c-16.45-1.53-20.4-2.63-22.26-3.58,0,0-.38-.21-.74-.42-16.22-9.58-20.23-136.24-20.61-148.21-.38-11.62-1.07-30.38-2.39-53.79-.14-2.43,1.82,171.76-.61,193.79-.25,2.27-.91,6.5-4,10-5.49,6.22-15.08,6.05-19,6-15.33-.2-44.55.08-83,0,41.12,1.43,72.31,3.96,86,6,10.14,1.51,19.83,4.12,22.61,11.21,0,.02.04.08.09.23.34,1.01.73,3.68,2.21,24.82,1.38,19.75,1.71,25.95,1.71,25.95,2.96,55.58,6.49,121.81,7.39,121.79Z"/>
+  </g>
+</svg>
